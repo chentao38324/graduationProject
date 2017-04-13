@@ -3,4 +3,14 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <!-- ======= Add Car ======== -->
+    <color name="item_background">#ffffff</color>
+    <color name="item_label_text_color">#777777</color>
+    <color name="item_text_hint_color">#aaaaaa</color>
+    <color name="item_text_color">#33aefc</color>
+    <color name="tip_color">@color/cG3</color>
+    <color name="save_button_text_color">#ffffff</color>
+    <color name="dialog_item_abbr_text_color">#606060</color>
+    <color name="dialog_item_car_type_text_color">#333333</color>
+    <color name="template_divider_color">#e0e0e0</color>
 </resources>
