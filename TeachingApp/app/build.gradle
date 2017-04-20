@@ -1,4 +1,12 @@
 apply plugin: 'com.android.application'
+apply plugin: 'org.greenrobot.greendao'
+
+//数据库版本
+greendao {
+    schemaVersion 1
+    daoPackage 'com.chentao.teachingapp.dao.gen'
+    targetGenDir 'src/main/java'
+}
 
 android {
     compileSdkVersion 25
@@ -27,4 +35,8 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.3.1'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'
+
+    //greenDao
+    compile 'org.greenrobot:greendao:3.2.0'
+    compile 'org.greenrobot:greendao-generator:3.2.0'
 }
