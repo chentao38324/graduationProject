@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nim-rts-3.5.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/demo/libs/nim-rts-3.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
