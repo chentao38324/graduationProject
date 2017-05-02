@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="nim-avchat-3.5.5">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/uikit/libs/nim-avchat-3.5.5.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
